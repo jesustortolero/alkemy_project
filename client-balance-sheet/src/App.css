@@ -1,0 +1,77 @@
+body{
+  background-color: #D2DBDF;
+  color:#121710;
+}
+
+
+button{
+  border-radius: 5px;
+  background-color: #2E4996;
+  color:  white;
+  font-weight: bold;
+  padding: 3px 10px;
+}
+
+hr{
+  color: #121710!important;
+  background-color: #121710!important;
+  height: 5px!important;
+}
+
+.container{
+  margin-top: 60px;
+  padding-top: 30px;
+}
+
+.whiteCard{
+  background-color: white;
+  border-radius: 5px;
+  border: solid 1px #e5e5e5;
+  box-shadow: 2.5px 2.5px 3px #c7d2d7
+}
+
+.egreso{
+  color: #cb0000;
+}
+
+.egresoContent{
+  margin-left: 5px;
+  padding: 0px 10px;
+}
+
+.ingreso{
+color: #1a9a20
+}
+
+table{
+  background-color: white;
+  margin-top: 40px;
+  border-radius: 10px;
+  box-shadow: 2.5px 2.5px 3px #c7d2d7;
+}
+
+.rightButton{
+
+  margin-left: 10px;
+
+}
+
+.deleteButton{
+  position: absolute;
+  margin-top: .3rem;
+  margin-left: -2rem;
+  background-color: #cb0000;
+}
+
+.deleteButton:hover{
+ background-color:#cb0000;
+}
+
+.modifyButton{
+
+  position: absolute;
+  margin-top: .3rem;
+  margin-left: -4rem;
+  background-color: #e75d03;
+
+}
